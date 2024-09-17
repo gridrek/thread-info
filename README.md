@@ -11,7 +11,6 @@
     - [4. Child](#4-child)
     - [5. Border Router](#5-border-router)
   - [Additional Aspects of Thread Device Roles](#additional-aspects-of-thread-device-roles)
-    - [Security and Network Integrity](#security-and-network-integrity)
 - [Router role in-depth](#router-role-in-depth)
   - [1. Routing Responsibilities](#1-routing-responsibilities)
   - [2. Joining New Devices](#2-joining-new-devices)
