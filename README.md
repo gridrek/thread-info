@@ -1,3 +1,5 @@
+![# Thread](https://github.com/gridrek/thread-info/blob/main/Thread.png)
+
 # Thread
 
 ## Thread Device Roles
