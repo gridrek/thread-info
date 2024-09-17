@@ -72,6 +72,8 @@ End Devices are simpler, typically low-power devices that don’t route traffic.
 
 ---
 
+Let's break down each aspect of the Router role in a Thread network even further, discussing the underlying mechanisms and how they contribute to the router's operation and overall network performance.
+
 ### 1. Routing Responsibilities
 
 #### Routing Tables:
