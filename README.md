@@ -1,5 +1,3 @@
-# thread-info
-
 # Thread
 
 ## Thread Device Roles
