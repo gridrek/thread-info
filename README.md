@@ -1,8 +1,6 @@
 # thread-info
 
-# Core Components of a Thread Network
-
-The core components of a Thread network can be categorized into the following roles and layers. Each component has a specific function that ensures reliable and secure communication within the mesh network.
+# Thread
 
 ## Thread Device Roles
 
