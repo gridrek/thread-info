@@ -72,6 +72,7 @@ End Devices are simpler, typically low-power devices that don’t route traffic.
 
 ---
 
+
 Let's break down each aspect of the Router role in a Thread network even further, discussing the underlying mechanisms and how they contribute to the router's operation and overall network performance.
 
 ### 1. Routing Responsibilities
@@ -172,6 +173,7 @@ Thread networks often have multiple Routers to ensure redundancy. If one Router 
 If an End Device needs to be promoted to a Router (due to the need for more routing capacity in a specific part of the network), Thread can dynamically upgrade End Devices with sufficient resources to become Routers, adding redundancy and capacity as needed.
 
 ---
+
 
 ## Leader Role in Depth
 
@@ -277,6 +279,7 @@ The Leader manages the routes that connect internal devices to external networks
 
 ---
 
+
 ## End Devices in Depth
 
 To explore the role of End Devices in a Thread network more deeply, we’ll examine their characteristics, interactions with the network, and how they optimize power usage and communication efficiency. We’ll also look into the mechanisms of Sleepy End Devices (SEDs) and Non-Sleepy End Devices (NSEDs) and their differences, along with how these devices function in dynamic and low-power environments.
@@ -369,6 +372,7 @@ To explore the role of End Devices in a Thread network more deeply, we’ll exam
 - **Mobile Devices**: Some End Devices, such as wearable devices or portable sensors, may need to roam across different parts of the network. Thread supports mobility by allowing End Devices to dynamically reassociate with new Routers as they move throughout the network, ensuring continuous communication as the device changes location.
 
 ---
+
 
 # Border Router in Thread Networks
 
